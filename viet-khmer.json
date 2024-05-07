@@ -2,26 +2,26 @@
   "từ1": {
     "loại1": [
       {
-        "định nghĩa": ["định nghĩa1 - update data", "định nghĩa2"],
-        "ví dụ": ["ví dụ1", "ví dụ2"]
+        "definitions": ["định nghĩa1", "định nghĩa2"],
+        "examples": ["ví dụ1", "ví dụ2"]
       },
       {
-        "định nghĩa": ["định nghĩa3"],
-        "ví dụ": ["ví dụ3"]
+        "definitions": ["định nghĩa3"],
+        "examples": ["ví dụ3"]
       }
     ],
     "loại2": [
       {
-        "định nghĩa": ["định nghĩa4"],
-        "ví dụ": ["ví dụ4"]
+        "definitions": ["định nghĩa4"],
+        "examples": ["ví dụ4"]
       }
     ]
   },
   "từ2": {
     "loại3": [
       {
-        "định nghĩa": ["định nghĩa5"],
-        "ví dụ": ["ví dụ5"]
+        "definitions": ["định nghĩa5"],
+        "examples": ["ví dụ5"]
       }
     ]
   }
